@@ -28,6 +28,7 @@ const init = () => {
     });
 }
 
+// const getOutput = output => ["The function starts", ...output, "The function ends"]
 const getOutput = (output) => {
     return ["The function starts", ...output, "The function ends"];
 }

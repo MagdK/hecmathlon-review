@@ -1,7 +1,7 @@
 class HECMAthlon {
-    constructor(input) {
-        this.input = input;
-    }
+    // constructor(input) {
+    //     this.input = input;
+    // }
     getMaxValue(input) {
         const maxValues = input.split(",");
         
